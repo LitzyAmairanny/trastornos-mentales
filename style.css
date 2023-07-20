@@ -1,0 +1,36 @@
+head {
+    height: 48px; 
+    border: solid blue 1px; 
+    font: 13px/27px Roboto,Arial,sans-serif;
+    z-index: 986;
+}
+
+body { 
+    height: 800%;
+    margin: 300; 
+    padding: 300; 
+    box-sizing: content-box; 
+    min-width: 400px;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: rgb(47, 47, 103);
+    background-color: rgba(244, 245, 243, 0.656);
+} 
+
+.tittle {
+    text-align: center;
+}
+
+.justify-text {
+    text-align: justify;
+  }
+
+.center-text {
+    text-align: center;
+    color: rgba(23, 23, 98, 0.864);
+}
+
+.image1 {
+    height: 500px;  
+    opacity: 0.85;   
+}
